@@ -17,6 +17,9 @@ python3 LinePrinter.py w.py
 ```shell
 python3 LinePrinter.py w.py -e
 ```
+
+<img width="1280" alt="截圖 2021-10-26 下午4 47 47" src="https://user-images.githubusercontent.com/59184894/138843833-aae357d4-2fd9-44ff-9988-3b157e1c8cd3.png">
+
 可產生一般流程圖
 
 ```shell
