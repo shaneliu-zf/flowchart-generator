@@ -12,18 +12,18 @@
 <img width="1280" alt="截圖 2021-10-26 下午4 47 47" src="https://user-images.githubusercontent.com/59184894/138843833-aae357d4-2fd9-44ff-9988-3b157e1c8cd3.png">
 
 ```shell
-python3 LinePrinter.py w.py
+python3 LinePrinter.py <你的程式碼>
 ```
 可產生一般流程圖 ＋ mermaid用格式
 
 ```shell
-python3 LinePrinter.py w.py -e
+python3 LinePrinter.py <你的程式碼> -e
 ```
 
 可產生一般流程圖
 
 ```shell
-python3 LinePrinter.py w.py -s
+python3 LinePrinter.py <你的程式碼> -s
 ```
 可產生mermaid用格式
 
