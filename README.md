@@ -10,17 +10,17 @@
 ## 教學
 
 ```shell
-python3 linePrinter.py w.py
+python3 LinePrinter.py w.py
 ```
 可產生一般流程圖 ＋ mermaid用格式
 
 ```shell
-python3 linePrinter.py w.py -e
+python3 LinePrinter.py w.py -e
 ```
 可產生一般流程圖
 
 ```shell
-python3 linePrinter.py w.py -s
+python3 LinePrinter.py w.py -s
 ```
 可產生mermaid用格式
 
