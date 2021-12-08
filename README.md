@@ -1,4 +1,4 @@
-# LinePrinter
+# flowchart-generator
 
 ## 介紹
 因應北科程式設計課需要列程式的執行順序
